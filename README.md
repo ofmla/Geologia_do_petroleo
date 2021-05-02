@@ -6,7 +6,7 @@
 
 **Rode os notebooks online:** Se você quiser rodar os notebooks, você pode fazer isso agora:
 
-* Clique em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ofmla/docker-concurso-ufu-gpgLabs/master) (que lançará o repositório https://github.com/ofmla/Geologia_do_petroleo). Isso às vezes pode levar alguns minutos, então seja paciente ...
+* Clique em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ofmla/Geologia_do_petroleo/HEAD) (que lançará o repositório https://github.com/ofmla/Geologia_do_petroleo). Isso às vezes pode levar alguns minutos, então seja paciente ...
 * Espere até que ele seja carregado
 * Clique em "classes_gp_senai", clique no notebook ddo seu interesse e divirta-se!
 
