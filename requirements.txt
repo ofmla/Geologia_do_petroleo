@@ -3,4 +3,5 @@ numpy>1.16
 scipy
 flake8>=2.1.0
 nbval
+scikit-learn
 matplotlib
